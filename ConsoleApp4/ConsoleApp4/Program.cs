@@ -6,7 +6,7 @@
         {
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine("I am here...<Допишите что-нибудь>");
+            Console.WriteLine("I am here...<And there>");
         }
     }
 }
